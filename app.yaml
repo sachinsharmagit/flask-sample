@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: flask-sample
-        image: sachinsharma2802/flask-sample
+        image: sachinsharma2802/flask-sample:latest
         ports:
         - containerPort: 80
